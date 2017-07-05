@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}问题重述}{2}
+\contentsline {section}{\numberline {2}有限差分推导}{2}
+\contentsline {section}{\numberline {3}边界条件}{7}
+\contentsline {subsection}{\numberline {3.1}左边界}{7}
+\contentsline {subsection}{\numberline {3.2}右边界}{7}
+\contentsline {subsection}{\numberline {3.3}上边界}{8}
+\contentsline {subsection}{\numberline {3.4}下边界}{9}
+\contentsline {subsection}{\numberline {3.5}节点}{9}
+\contentsline {subsubsection}{\numberline {3.5.1}节点(1,1)}{9}
+\contentsline {subsubsection}{\numberline {3.5.2}节点(1,N)}{9}
+\contentsline {subsubsection}{\numberline {3.5.3}节点(N,1)}{10}
+\contentsline {subsubsection}{\numberline {3.5.4}节点(N,N)}{11}
+\contentsline {section}{\numberline {4}系数矩阵}{12}
+\contentsline {section}{\numberline {5}算法分析}{13}
+\contentsline {section}{\numberline {6}运行结果}{13}
